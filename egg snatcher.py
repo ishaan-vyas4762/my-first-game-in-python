@@ -25,12 +25,12 @@ print(score)
 print("Game over! your score is.",score," [there is an easter egg too in which you can get a mystery egg on getting all 5 rounds correct and one on getting 3 rounds correct]")
 #check for baby gronk egg
 if score == 5:
-    print("congratulations! you have earned the baby gronk egg, now you are a true sigma")
+    print("congratulations! you have earned the BABY GRONK EGG, now you are a true SKIBBIDI")
 else:
-    print("try again for another mystery egg")
+    print("play again for another mystery egg")
 #check for thunder egg
-if score == 3:
-    print("congratulations! you have earned the thunder egg, now you can party with thor")
+if score =< 3:
+    print("congratulations! you have earned the THUNDER EGG, now you can party with THOR and LOKI")
 
 print("thank you for playing our game please write a comment for us to how to improve on this")
 x=(input("comment:"))
