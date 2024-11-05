@@ -38,7 +38,7 @@ if score == 0:
 
 #check for FROOTI "by meenu maam"
 if score =< 1:
-    print("great now finally youll get a FROOTI from meenu maam")
+    print("great! now finally youll get a FROOTI from meenu maam")
 
 print("thank you for playing our game please write a comment for us to how to improve on this")
 x=(input("comment:"))
