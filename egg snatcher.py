@@ -5,7 +5,7 @@ animals=["python","fox","monkey"]
 rounds=5 #number of rounds to play
 score=0
 
-print("welcome to the amazing game made by Ishaan Vyas and Aditya Walia this game is called egg snatcher in this there are 3 naughty animals and in each round you have to guess who has stolen the egg now play the game and enjoy!")
+print("welcome to the amazing game made by Ishaan Vyas, this game is called egg snatcher in this there are 3 sneaky animals and in each round you have to guess who has stolen the egg now play the game and enjoy!!!!")
 for i in range(1,rounds+1):
     #randomly select the animal having egg
     animals_with_egg = random.choice(animals)
